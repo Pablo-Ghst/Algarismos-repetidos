@@ -1,1 +1,1 @@
-# Algarismos-repetidos
+Identificar e exibir as ocorrências de repetições de três algarismos iguais consecutivos de um numero com entrada em JOptionPane , explicitando que algarismo está se repetindo três vezes e em que posição tem início cada repetição.
